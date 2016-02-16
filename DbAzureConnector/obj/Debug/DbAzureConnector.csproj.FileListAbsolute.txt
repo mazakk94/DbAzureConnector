@@ -1,0 +1,1 @@
+M:\MACIEJ\Dokumenty\Visual Studio 2013\Projects\DbAzureConnector\DbAzureConnector\bin\Debug\DbAzureConnector.exe.config
